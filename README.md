@@ -1,3 +1,7 @@
+![Languages](https://img.shields.io/badge/languages-EN%20%7C%20PT--BR%20%7C%20ES-blue)
+![AI Skills](https://img.shields.io/badge/category-AI%20Skills-green)
+![Workflows](https://img.shields.io/badge/type-Workflows-orange)
+
 # Skillteca
 
 A multilingual library of reusable AI skills, workflows, prompts and agent resources.
