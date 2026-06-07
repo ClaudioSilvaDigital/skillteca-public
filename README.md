@@ -31,6 +31,12 @@ See the `/examples` folder.
 
 ## Learn More
 
-Visit the official website:
+Visit the official website: https://www.skillteca.com.br
+
+## Documentation
+
+- [What is Skillteca?](docs/what-is-skillteca.md)
+- [How Skills Work](docs/how-skills-work.md)
+- [FAQ](docs/faq.md)
 
 https://www.skillteca.com.br/en
