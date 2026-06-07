@@ -25,6 +25,12 @@ https://www.skillteca.com.br/en
 - Sales Assistance
 - Business Analysis
 
+## Skills Repository
+
+Professional skills maintained by Claudio Silva:
+
+https://github.com/ClaudioSilvaDigital/skillsclaudiosilva
+
 ## What Makes Skillteca Different?
 
 Unlike traditional prompt collections, Skillteca focuses on reusable skills and workflows that can be adapted across multiple AI assistants and business scenarios.
