@@ -1,38 +1,36 @@
-# skillteca
+# Skillteca
 
-Skillteca is a multilingual library of reusable AI skills, workflows, prompts, and agent resources.
+A multilingual library of reusable AI skills, workflows, prompts and agent resources.
 
-Our mission is to help people discover, share, and reuse practical AI capabilities across different AI assistants, including Claude, ChatGPT, Gemini, and other LLM platforms.
+Skillteca helps users discover, share and reuse practical AI capabilities across Claude, ChatGPT, Gemini and other AI assistants.
 
 ## Website
 
 https://www.skillteca.com.br/en
 
-## Features
+## Available Languages
 
-- Reusable AI skills
-- Structured workflows
-- Prompt-based resources
-- Multilingual support (English, Portuguese, Spanish)
-- Human-curated content
+- English
+- Portuguese (Brazil)
+- Spanish
 
-## Example Skills
+## Featured Skills
 
 - Executing Marketing Campaigns
 - Content Strategy Planning
-- Business Analysis
 - Sales Assistance
+- Business Analysis
 
-## Why Skillteca?
+## What Makes Skillteca Different?
 
-Most prompt collections focus on isolated prompts.
+Unlike traditional prompt collections, Skillteca focuses on reusable skills and workflows that can be adapted across multiple AI assistants and business scenarios.
 
-Skillteca focuses on reusable skills that can be adapted across multiple AI assistants and real-world use cases.
+## Examples
 
-## Contributing
+See the `/examples` folder.
 
-This repository is intended for public documentation and examples.
+## Learn More
 
-## License
+Visit the official website:
 
-See LICENSE file.
+https://www.skillteca.com.br/en
