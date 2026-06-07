@@ -31,7 +31,8 @@ See the `/examples` folder.
 
 ## Learn More
 
-Visit the official website: https://www.skillteca.com.br
+Visit the official website:
+https://www.skillteca.com.br/en
 
 ## Documentation
 
@@ -39,4 +40,3 @@ Visit the official website: https://www.skillteca.com.br
 - [How Skills Work](docs/how-skills-work.md)
 - [FAQ](docs/faq.md)
 
-https://www.skillteca.com.br/en
